@@ -42735,7 +42735,7 @@ Rigidbody2D:
   m_Mass: 0.0001
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: -1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -42807,7 +42807,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TranslationSpeed: 0
   m_RotationSpeed: 0
-  speed: 2
+  speed: 3
 --- !u!61 &1850227704
 BoxCollider2D:
   m_ObjectHideFlags: 0
